@@ -40,7 +40,7 @@ EdWeb is an online education website which offers interactive and fun courses fo
 + CSS 
 + JavaScript 
 
-## Developer : #Tanuja Mukane
+## Developer : Tanuja Mukane
 
 
 
